@@ -9,6 +9,33 @@
 
 In this guide, we’ll cover the installation steps and best practices.
 
+# Mixed Markdown and HTML
+
+> [!NOTE]
+> This page mixes Markdown and HTML.
+
+Here is an image in HTML:
+
+<img src="./images/cluster.png" alt="Cluster Diagram" width="400" />
+
+Here is a custom table:
+
+<table>
+  <tr>
+    <th>Component</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>DataOS Core</td>
+    <td>Main orchestration layer</td>
+  </tr>
+  <tr>
+    <td>Operators</td>
+    <td>Handle deployments and monitoring</td>
+  </tr>
+</table>
+
+
 
 > [!NOTE]
 > This is a note callout.
