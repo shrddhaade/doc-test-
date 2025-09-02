@@ -1,5 +1,15 @@
 # DataOS Documentation
 
+> [!NOTE]
+> This is a note callout.
+
+> [!TIP]
+> This is a tip callout.
+
+> [!WARNING]
+> This is a warning callout.
+
+
 In the rapidly evolving world of data, the need for robust, scalable, and efficient data products has never been more critical. DataOS is a platform that transforms how businesses create, manage, and leverage data products. DataOS empowers business teams to innovate by providing the tools and autonomy for data product development.
 
 DataOS is an enterprise-grade data product platform that enables organizations to build, manage, and share data products. It provides the essential building blocks, data developers require to create powerful data products that drive significant business outcomes. 
