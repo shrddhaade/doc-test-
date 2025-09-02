@@ -1,5 +1,15 @@
 # DataOS Documentation
 
+# DataOS Documentation
+
+> [!TIP]
+> You can deploy DataOS faster using the **Quickstart script**.
+
+![Cluster diagram](./images/cluster-arch.png)
+
+In this guide, we’ll cover the installation steps and best practices.
+
+
 > [!NOTE]
 > This is a note callout.
 
